@@ -2,6 +2,7 @@
     "appName": "Rule Of thumb",
     "voteOptions": [
         {
+            "id": 10,
             "optionAlreadyVoted": false,
             "optionDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
             "optionImageUrl": "kanye.png",
@@ -13,6 +14,7 @@
             "optionTotalVotes": 100
         },
         {
+            "id": 20,
             "optionAlreadyVoted": true,
             "optionDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
             "optionImageUrl": "markzuckerberg.png",
@@ -24,6 +26,7 @@
             "optionTotalVotes": 100
         },
         {
+            "id": 30,
             "optionAlreadyVoted": false,
             "optionDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
             "optionImageUrl": "cristina.png",
@@ -35,6 +38,7 @@
             "optionTotalVotes": 100
         },
         {
+            "id": 40,
             "optionAlreadyVoted": false,
             "optionDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
             "optionImageUrl": "malala.png",
