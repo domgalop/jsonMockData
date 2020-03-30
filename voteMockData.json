@@ -2,8 +2,7 @@
     "voteOptions": [
         {
             "id": 10,
-            "optionAlreadyVoted": false,
-            "optionDescription": "is an American rapper, singer, songwriter, record producer, entrepreneur and fashion designer",
+            "optionDescription": "Rapper, singer, songwriter, record producer, and entrepreneur",
             "optionImageUrl": "kanye.png",
             "optionName": "kanye west",
             "optionVotesNegative": 2,
@@ -24,8 +23,7 @@
         },
         {
             "id": 30,
-            "optionAlreadyVoted": false,
-            "optionDescription": "is an Argentine politician who is the current Vice President of Argentina",
+            "optionDescription": "Argentine politician who is the Vice President of Argentina",
             "optionImageUrl": "cristina.png",
             "optionName": "cristina fernández de kirchner",
             "optionVotesNegative": 1,
@@ -35,8 +33,7 @@
         },
         {
             "id": 40,
-            "optionAlreadyVoted": false,
-            "optionDescription": "also known mononymously as Malala, is a Pakistani activist for female education.",
+            "optionDescription": "Pakistani activist for female education. Better know as Malala",
             "optionImageUrl": "malala.png",
             "optionName": "malala yousafzai",
             "optionVotesNegative": 1,
